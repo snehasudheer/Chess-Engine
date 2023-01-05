@@ -1,0 +1,101 @@
+Game Number,Player 1,Player 2,Wall 1,Wall 2,Winner,Score Tree,Score Random,White Game Score,Black Game Score,Score Difference,Nodes Traversed
+1,Tree AI,Random AI,"(3, 2)","(5, 1)",White - Tree AI,1,0,38,18,20,4042
+2,Random AI,Tree AI,"(2, 5)","(5, 3)",Black - Tree AI,2,0,18,38,-20,2681
+3,Tree AI,Random AI,"(3, 2)","(5, 3)",Stalemate,2.5,0.5,36,1,35,8268
+4,Random AI,Tree AI,"(3, 2)","(5, 2)",Stalemate,3.0,1.0,5,37,-32,3081
+5,Random AI,Tree AI,"(2, 7)","(5, 5)",Stalemate,3.5,1.5,1,38,-37,4336
+6,Tree AI,Random AI,"(2, 3)","(4, 4)",White - Tree AI,4.5,1.5,36,2,34,6548
+7,Tree AI,Random AI,"(2, 4)","(4, 7)",White - Tree AI,5.5,1.5,37,8,29,5413
+8,Random AI,Tree AI,"(2, 0)","(5, 0)",Black - Tree AI,6.5,1.5,0,38,-38,6141
+9,Tree AI,Random AI,"(3, 6)","(5, 7)",White - Tree AI,7.5,1.5,38,4,34,6387
+10,Random AI,Tree AI,"(3, 7)","(4, 2)",Black - Tree AI,8.5,1.5,3,39,-36,4009
+11,Random AI,Tree AI,"(2, 4)","(5, 7)",Stalemate,9.0,2.0,0,38,-38,3420
+12,Tree AI,Random AI,"(3, 7)","(4, 3)",Stalemate,9.5,2.5,29,0,29,5338
+13,Tree AI,Random AI,"(3, 3)","(5, 0)",White - Tree AI,10.5,2.5,38,14,24,2692
+14,Random AI,Tree AI,"(3, 4)","(5, 4)",Black - Tree AI,11.5,2.5,18,38,-20,2695
+15,Tree AI,Random AI,"(3, 5)","(5, 2)",White - Tree AI,12.5,2.5,38,39,-1,388
+16,Tree AI,Random AI,"(2, 0)","(5, 7)",Stalemate,13.0,3.0,38,1,37,5939
+17,Random AI,Tree AI,"(3, 6)","(5, 4)",Stalemate,13.5,3.5,0,39,-39,5179
+18,Tree AI,Random AI,"(3, 7)","(5, 3)",Stalemate,14.0,4.0,34,0,34,11577
+19,Tree AI,Random AI,"(3, 2)","(5, 5)",Stalemate,14.5,4.5,33,0,33,8381
+20,Tree AI,Random AI,"(2, 7)","(4, 7)",Stalemate,15.0,5.0,36,0,36,4204
+21,Random AI,Tree AI,"(3, 2)","(4, 6)",Black - Tree AI,16.0,5.0,5,39,-34,2439
+22,Random AI,Tree AI,"(2, 4)","(4, 2)",Black - Tree AI,17.0,5.0,23,39,-16,2584
+23,Tree AI,Random AI,"(3, 5)","(5, 1)",White - Tree AI,18.0,5.0,37,4,33,8470
+24,Random AI,Tree AI,"(2, 3)","(4, 3)",Stalemate,18.5,5.5,1,37,-36,3499
+25,Tree AI,Random AI,"(2, 4)","(5, 3)",White - Tree AI,19.5,5.5,37,13,24,4099
+26,Random AI,Tree AI,"(3, 0)","(5, 2)",Black - Tree AI,20.5,5.5,1,36,-35,8940
+27,Random AI,Tree AI,"(2, 4)","(4, 3)",Stalemate,21.0,6.0,1,37,-36,5639
+28,Tree AI,Random AI,"(2, 5)","(4, 4)",White - Tree AI,22.0,6.0,26,3,23,8803
+29,Tree AI,Random AI,"(3, 3)","(5, 7)",White - Tree AI,23.0,6.0,38,15,23,2845
+30,Random AI,Tree AI,"(2, 1)","(4, 5)",Stalemate,23.5,6.5,0,34,-34,5485
+31,Random AI,Tree AI,"(3, 4)","(5, 0)",Black - Tree AI,24.5,6.5,11,36,-25,4128
+32,Random AI,Tree AI,"(3, 6)","(5, 1)",Stalemate,25.0,7.0,1,39,-38,4329
+33,Tree AI,Random AI,"(3, 7)","(5, 7)",White - Tree AI,26.0,7.0,36,9,27,7696
+34,Random AI,Tree AI,"(3, 3)","(4, 1)",Black - Tree AI,27.0,7.0,8,37,-29,4951
+35,Tree AI,Random AI,"(3, 4)","(4, 1)",Stalemate,27.5,7.5,38,0,38,6953
+36,Random AI,Tree AI,"(2, 4)","(5, 5)",Black - Tree AI,28.5,7.5,14,35,-21,3044
+37,Random AI,Tree AI,"(3, 4)","(4, 5)",Black - Tree AI,29.5,7.5,5,39,-34,2794
+38,Tree AI,Random AI,"(2, 2)","(5, 5)",White - Tree AI,30.5,7.5,38,13,25,7544
+39,Random AI,Tree AI,"(3, 7)","(4, 6)",Black - Tree AI,31.5,7.5,33,39,-6,1179
+40,Tree AI,Random AI,"(3, 7)","(5, 2)",Stalemate,32.0,8.0,37,0,37,5504
+41,Tree AI,Random AI,"(2, 3)","(4, 0)",White - Tree AI,33.0,8.0,38,22,16,8650
+42,Random AI,Tree AI,"(2, 0)","(4, 2)",Stalemate,33.5,8.5,1,33,-32,6182
+43,Tree AI,Random AI,"(2, 2)","(4, 7)",Stalemate,34.0,9.0,35,0,35,8661
+44,Tree AI,Random AI,"(3, 0)","(4, 7)",Stalemate,34.5,9.5,37,2,35,4269
+45,Random AI,Tree AI,"(3, 4)","(5, 5)",Stalemate,35.0,10.0,0,36,-36,4891
+46,Random AI,Tree AI,"(3, 5)","(4, 3)",Black - Tree AI,36.0,10.0,5,39,-34,3869
+47,Random AI,Tree AI,"(3, 3)","(4, 6)",Black - Tree AI,37.0,10.0,11,38,-27,3221
+48,Tree AI,Random AI,"(2, 7)","(4, 3)",White - Tree AI,38.0,10.0,34,11,23,4608
+49,Tree AI,Random AI,"(2, 3)","(5, 3)",Stalemate,38.5,10.5,37,0,37,5862
+50,Random AI,Tree AI,"(3, 0)","(4, 0)",Black - Tree AI,39.5,10.5,12,33,-21,3872
+51,Random AI,Tree AI,"(3, 1)","(4, 3)",Stalemate,40.0,11.0,1,38,-37,6326
+52,Tree AI,Random AI,"(2, 7)","(4, 6)",Stalemate,40.5,11.5,33,0,33,7041
+53,Random AI,Tree AI,"(2, 1)","(5, 3)",Black - Tree AI,41.5,11.5,15,39,-24,3843
+54,Random AI,Tree AI,"(2, 0)","(4, 7)",Black - Tree AI,42.5,11.5,24,38,-14,2745
+55,Random AI,Tree AI,"(3, 0)","(5, 4)",Black - Tree AI,43.5,11.5,37,38,-1,2153
+56,Random AI,Tree AI,"(3, 1)","(4, 2)",Stalemate,44.0,12.0,1,38,-37,3690
+57,Tree AI,Random AI,"(2, 4)","(4, 4)",White - Tree AI,45.0,12.0,38,0,38,3942
+58,Random AI,Tree AI,"(2, 0)","(4, 5)",Black - Tree AI,46.0,12.0,1,37,-36,2964
+59,Tree AI,Random AI,"(2, 7)","(4, 2)",White - Tree AI,47.0,12.0,38,4,34,3815
+60,Tree AI,Random AI,"(2, 0)","(5, 6)",White - Tree AI,48.0,12.0,36,18,18,3572
+61,Tree AI,Random AI,"(3, 4)","(4, 4)",White - Tree AI,49.0,12.0,37,11,26,2675
+62,Random AI,Tree AI,"(3, 2)","(5, 4)",Black - Tree AI,50.0,12.0,23,39,-16,2713
+63,Random AI,Tree AI,"(2, 5)","(4, 2)",Black - Tree AI,51.0,12.0,26,39,-13,2725
+64,Random AI,Tree AI,"(3, 6)","(4, 6)",Black - Tree AI,52.0,12.0,1,39,-38,2903
+65,Random AI,Tree AI,"(3, 0)","(4, 2)",Stalemate,52.5,12.5,1,38,-37,3470
+66,Tree AI,Random AI,"(2, 5)","(4, 7)",White - Tree AI,53.5,12.5,37,0,37,4708
+67,Tree AI,Random AI,"(3, 4)","(5, 1)",White - Tree AI,54.5,12.5,37,5,32,4014
+68,Tree AI,Random AI,"(3, 1)","(4, 7)",White - Tree AI,55.5,12.5,38,29,9,3971
+69,Tree AI,Random AI,"(2, 5)","(4, 5)",White - Tree AI,56.5,12.5,38,11,27,9094
+70,Tree AI,Random AI,"(2, 5)","(5, 0)",White - Tree AI,57.5,12.5,38,24,14,3344
+71,Tree AI,Random AI,"(3, 2)","(5, 0)",White - Tree AI,58.5,12.5,37,11,26,7571
+72,Random AI,Tree AI,"(2, 4)","(5, 0)",Black - Tree AI,59.5,12.5,9,34,-25,3278
+73,Random AI,Tree AI,"(3, 3)","(5, 4)",Stalemate,60.0,13.0,1,32,-31,4002
+74,Tree AI,Random AI,"(2, 1)","(5, 2)",White - Tree AI,61.0,13.0,38,11,27,2110
+75,Random AI,Tree AI,"(3, 4)","(4, 6)",Stalemate,61.5,13.5,0,39,-39,4800
+76,Random AI,Tree AI,"(3, 6)","(4, 4)",Stalemate,62.0,14.0,1,39,-38,5799
+77,Tree AI,Random AI,"(2, 7)","(5, 1)",Stalemate,62.5,14.5,37,0,37,8180
+78,Random AI,Tree AI,"(2, 2)","(5, 0)",Black - Tree AI,63.5,14.5,7,39,-32,5322
+79,Random AI,Tree AI,"(3, 4)","(4, 7)",Black - Tree AI,64.5,14.5,2,35,-33,3506
+80,Tree AI,Random AI,"(2, 6)","(4, 6)",Stalemate,65.0,15.0,28,0,28,10409
+81,Tree AI,Random AI,"(2, 2)","(4, 5)",White - Tree AI,66.0,15.0,38,18,20,4439
+82,Tree AI,Random AI,"(3, 1)","(5, 0)",White - Tree AI,67.0,15.0,35,16,19,6232
+83,Tree AI,Random AI,"(3, 4)","(5, 2)",Stalemate,67.5,15.5,34,0,34,7706
+84,Random AI,Tree AI,"(2, 0)","(4, 4)",Black - Tree AI,68.5,15.5,13,38,-25,4966
+85,Random AI,Tree AI,"(3, 0)","(4, 5)",Black - Tree AI,69.5,15.5,4,37,-33,6958
+86,Random AI,Tree AI,"(3, 4)","(5, 7)",Black - Tree AI,70.5,15.5,11,36,-25,7120
+87,Random AI,Tree AI,"(2, 5)","(5, 6)",Black - Tree AI,71.5,15.5,7,35,-28,8252
+88,Random AI,Tree AI,"(3, 7)","(5, 5)",Stalemate,72.0,16.0,0,38,-38,3740
+89,Tree AI,Random AI,"(3, 6)","(5, 6)",White - Tree AI,73.0,16.0,34,4,30,3296
+90,Tree AI,Random AI,"(2, 3)","(5, 1)",White - Tree AI,74.0,16.0,38,30,8,947
+91,Random AI,Tree AI,"(3, 2)","(4, 2)",Black - Tree AI,75.0,16.0,11,38,-27,6926
+92,Random AI,Tree AI,"(3, 1)","(4, 0)",Stalemate,75.5,16.5,0,39,-39,3771
+93,Tree AI,Random AI,"(2, 0)","(5, 3)",White - Tree AI,76.5,16.5,38,26,12,984
+94,Tree AI,Random AI,"(2, 7)","(4, 1)",White - Tree AI,77.5,16.5,37,17,20,9107
+95,Tree AI,Random AI,"(3, 3)","(4, 2)",White - Tree AI,78.5,16.5,36,3,33,7370
+96,Random AI,Tree AI,"(3, 4)","(4, 2)",Black - Tree AI,79.5,16.5,23,39,-16,2063
+97,Random AI,Tree AI,"(2, 3)","(5, 4)",Black - Tree AI,80.5,16.5,7,38,-31,4209
+98,Tree AI,Random AI,"(2, 3)","(4, 5)",Stalemate,81.0,17.0,35,0,35,9793
+99,Random AI,Tree AI,"(2, 5)","(4, 6)",Black - Tree AI,82.0,17.0,1,36,-35,5284
+100,Random AI,Tree AI,"(2, 0)","(5, 4)",Black - Tree AI,83.0,17.0,2,38,-36,3038
